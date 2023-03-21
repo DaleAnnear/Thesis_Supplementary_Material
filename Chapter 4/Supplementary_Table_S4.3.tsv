@@ -1,0 +1,10 @@
+Gene	Region	Position	p.value.Log.regression	p.value.adjusted.Benjaminiâ.Hochberg	p.value.adjusted.Bonferroni
+LSP1P4	Intergenic	chr2:90324695-90325308	2.02 x 10-5	6.15 x 10-3	7.13 x 10-3
+MIR1299	Intergenic	chr9:40650925-40584416	3.77 x 10-5	6.15 x 10-3	1.23 x 10-2
+LINC00537	Intergenic	chr19:36286672-63450961	4.71 x 10-5	7.95 x 10-3	2.6 x 10-2
+LOC101928381 â†’ LOC105379443	Intergenic	chr9:65825571-64774847	5.25 x 10-5	7.95 x 10-3	3.18 x 10-2
+RGPD6	Gene Body	chr2:109760672-109760395	2.1 x 10-4	1.8 x 10-2	0.1
+ZFHX3	Gene Body	chr16:72957798-72787695	2.26 x 10-4	1.2 x 10-2	0.11
+SKI	Gene Body	chr1:2280839-2281011	4.6 x 10-4	3.0 x 10-2	0.21
+ZNF875	Intergenic	chr19:37302023-37284333	8.18 x 10-4	5.1 x 10-2	0.42
+RGPD2	Gene Body	chr2:86914934-86914900	9.22 x 10-4	6.7 x 10-2	0.61
